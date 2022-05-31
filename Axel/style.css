@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "GoW";
+    src:url("GODOFWAR.TTF");
+}
+body {
+    background-color:black;
+    text-align: center;
+}
+h1 {
+    color:rgb(255, 153, 0);
+    font:lighter;
+    font-family: GoW;
+    font-size: 40px;
+}
+h2 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+h3 {
+    color: orange;
+}
+#profil {
+    width: 10%;
+    float: left;
+}
+#real {
+    align-content:center ;
+}
+#banner {
+    width: 30%;
+    float: center;
+}
+#video {
+    float: center;
+    width: 30%;
+    height: 200px;
+}
+#mail {
+    width: 10%
+}
+p {
+    color: white;
+}
+ul {
+    color: white;
+}

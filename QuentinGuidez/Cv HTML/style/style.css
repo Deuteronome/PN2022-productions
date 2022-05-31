@@ -1,0 +1,67 @@
+@font-face
+{
+    font-family: "Bam";
+    src:url(../style/Font/Ubuntu-Title.ttf)
+}
+body
+ {
+     font-family:"Bam";
+     background: linear-gradient(#abb6cf 10%,#abcfb8 30%,#7ed69f);
+ }
+
+h2, h1
+{
+    color:white;
+}
+h3, h4
+{
+    color: white;
+}
+li
+{
+    list-style: none;
+    color:white;
+}
+section, p, a
+{
+    color:white;
+}
+section h3
+{
+    color:white;
+}
+article, nav
+{
+     border: 1px solid black;
+     border-radius: 15px;
+}
+.test
+{
+    display: flex;
+    align-items:stretch;
+    margin: 10px;
+    padding: 2px;
+}
+.test h3
+{
+    display: block;
+    margin-left:7em;
+    color:#3b65ad;
+    text-decoration: underline;
+}
+.mid
+{
+    display: block;
+    position: relative;
+    left: 70%;
+    font-size: 25px;
+}
+#top
+{
+    position: relative;
+    top: -12em 
+}
+.intro
+{
+    padding-left: 10px;
+}

@@ -1,0 +1,24 @@
+h2 {       
+ color:rgb(177, 56, 56);
+
+}
+h1 {
+    color:rgb(93, 17, 100);
+    font-family: super;
+}
+body{ 
+    background-color: rgb(191, 196, 193);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+}   
+h2{
+color:rgb(240, 17, 84)
+
+}
+@font-face {
+font-family:"super" ;
+src:url(SummerLoving.otf)
+
+}

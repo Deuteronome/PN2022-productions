@@ -1,0 +1,68 @@
+
+@font-face {
+    font-family: Frag;
+    src: url(Fragmentcore.otf);
+}
+
+h1{
+    text-align: center;
+    color:orange;
+    font-weight: 1000;
+    
+}
+
+
+
+#date{
+    text-decoration:double;
+    font-weight: 900;
+}
+
+
+#diplome{
+    font-weight:lighter;
+    font-size: large;
+}
+
+h2 {
+    border: 1px solid rgb(249, 249, 249);
+    font-weight: bold;
+    text-align: center;
+    color: orange;
+  }
+
+h3 {
+
+    color:orange;
+    font-style: oblique
+}
+
+
+.container{
+
+    display: flex;
+    justify-content:space-between;
+
+
+}
+
+#e2c {
+    position: relative;
+   
+}
+
+
+body{
+    background-color: black;
+    color: antiquewhite;
+    font-family: "Frag";
+}
+
+#mail {
+    margin-right: 30px;
+}
+
+#mail:hover{
+box-shadow: orange 10px -10px 10px 10px;
+
+}

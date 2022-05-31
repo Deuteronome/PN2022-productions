@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Le titre de la page -->
+    <title>Le règne de Charles X</title>
+    <!-- Icone de l'onglet -->
+    <link rel="shortscut icon" href="Armoiries des Bourbons.png">
+</head> 
+
+<body>
+    <header>
+        <h1><span>&#9760;</span>Texte - H1 </h1>
+        <p>Texte Royal. <em>Voici un texte en italique</em>. <strong>Et un texte en gras</strong>. <span>L'élement en span ne revient pas à la ligne</span>.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil consequatur iste maiores, facilis vel quam, iure, inventore maxime quos ipsum provident optio commodi autem explicabo? Maxime distinctio eos totam? Voluptate?</p>
+        </header>
+        <section>
+         <div>
+            <h2>Photos - H2 </h2>
+            <img src="Charles X.jpg" height="400" alt="Charles X">
+        </div>
+         <div>
+            <h3>Liste - H3 </h3>
+            <ul>
+                <li>Exemple de phrase</li>
+                <li>Exemple de phrase</li>
+                <li>Exemple de phrase</li>
+            </ul>
+            <ol>
+                <li>Exemple de phrase</li>
+                <li>Exemple de phrase</li>
+                <li>Exemple de phrase</li>
+            </ol>
+        </div>
+         <div>
+            <h4>Tableaux - H4 </h4>
+            <table border="1" width="50%">
+                <!-- Légende -->
+                <caption>Temps de règne</caption>
+                <!-- En-tête -->
+                <thead>
+                    <tr>
+                        <th>Début de règne</th>
+                        <th>Fin de règne</th>
+                    </tr>
+                </thead>
+                <!-- Corps du tableau -->
+                <tbody>
+                    <tr>
+                        <td>16 septembre 1824</td>
+                        <td>02 aout 1830</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+         <div>
+            <h5>Liens - H5 </h5>
+            <a href="https://fr.wikipedia.org/wiki/Charles_X" target=" _blank">Wikipedia Charles X</a>
+            <br>
+            <a href="https://www.linternaute.fr/actualite/biographie/1776308-charles-x-de-france-biographie-courte-dates-citations/" target="_blank">En savoir plus</a>
+        </div>
+         <div>
+            <h6>Vidéo - H6 </h6>
+            <video src="Jardin d'Eden - Iron Butterfly.mp4" autoplay loop muted></video>
+        </div>
+    </section>
+    <br>
+    <!-- Formulaire -->
+    <section>
+        <h2>Formulaire</h2>
+        <form action="/action.php" method="post">
+            <label for="name">Nom </label><input id="name" type="text" placeholder="Entrez votre nom"><br>
+            <label for="age">Age</label>
+            <input type="number" min="0" max="100" step="1" value="18"><br>
+
+            <!-- Input select -->
+            <label for="gender">Genre</label>
+            <select id="gender">
+                <option selected value="Homme">Homme</option>
+                <option value="Femme">Femme</option>
+            <select><br>
+
+                <!-- Input radio -->
+                <div>
+                <input type="radio" name="type" checked id="human">
+                <label for="human">Humain</label>
+
+                <input type="radio" name="type" id="dog">
+                <label for="dog">Chien</label>
+
+                <input type="radio" name="type" id="cat">
+                <label for="cat">Chat</label>
+                </div>
+
+                <textarea cols="30" rows="10" placeholder="Entrez votre demande ici"></textarea><br>
+
+                <!-- Input checkbox -->
+                <label></label><input type="checkbox" />Cliquez ici si vous êtes con<label><br>
+                <input type="submit" value="Valider">
+        </form>
+    </section>
+    <br>
+    <!-- Mail & envoi de fichier -->
+    <footer>
+        <a href="mailto:Exemple@gmail.com">Ecrivez-moi !</a>
+        <br>
+        <a href="notice.txt" download="Notice">Télécharger la notice</a>
+    </footer>
+</body>
+
+</html>

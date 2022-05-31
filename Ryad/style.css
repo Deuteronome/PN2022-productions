@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "police";
+    src: url("yuruy.otf");
+
+}
+
+body {
+
+    background-color:cornflowerblue;
+    background-image: url("../images/skyline.jpg");
+    background-repeat: no-repeat;
+    background: size 100%;
+    font-family: "police";
+    background-repeat: no-repeat;
+}
+#monNom {
+    color:rebeccapurple;
+    font-size: 30px;
+}
+h1 {
+    color:indigo;
+    font-size:20px;
+    font-family: Verdana;
+}
+
+h3 {
+    color:rebeccapurple;
+    font-family:'Franklin Gothic Medium'
+}
+
+h4 {
+    color: crimson;
+    font-family: Verdana;
+
+}
+#Comp {
+background-color:black;
+border: solid;
+margin: 15px;
+padding: 20px;
+
+
+}
+p {
+color:aliceblue;
+font-size: 20px;
+}
+
+li {
+color:aliceblue;
+font-size: 20px;
+}
