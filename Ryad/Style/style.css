@@ -1,0 +1,123 @@
+@font-face {
+    font-family: "police";
+    src: url("yuruy.otf");
+
+}
+
+
+h2 {
+    color:rebeccapurple;
+    font-size: 30px;
+}
+
+h3 {
+    color:rebeccapurple;
+    font-family:'Franklin Gothic Medium'
+}
+
+h4 {
+    color: crimson;
+    font-family: Verdana;
+
+}
+#Comp {
+background-color:black;
+border: solid;
+margin: 15px;
+padding: 20px;
+padding-top: 5px;
+border-radius: 30px;
+
+
+}
+p {
+color:aliceblue;
+font-size: 20px;
+}
+
+    li {
+color:aliceblue;
+font-size: 20px;
+}
+    nav {
+    display: inline-block;
+    width: 20%;
+    background-color:grey;
+    margin: 0px;
+    padding: 15px;
+    border: grey solid;
+    vertical-align: top;
+    height : 1400px;
+}
+
+    #principale {
+    display: inline-block;
+    margin : 0px;
+    padding : 0px;
+    vertical-align: top;
+    width : 75%;
+
+}
+
+    header {
+        background-color:grey;
+        text-align: center;
+        color: darkviolet;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin: 0px;
+        font-family: "police";
+        
+        
+    }
+
+h1 {
+    padding : 0px;
+    margin : 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.bouton {
+    width : 75%;
+    margin : auto;
+    background-color:darkviolet;
+    padding: 10px;
+    text-align: center;
+    border: grey;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.bouton:hover {
+    background-color:darkviolet;
+    color:royalblue;
+}
+
+.capsule {
+    width : 150px;
+    height: 220px;
+    margin: 10px;
+    padding: 0px;
+    background-image: url("../images./skyline.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border : solid black 3px;
+    border-radius: 15px;
+
+}
+#conteneur {
+    display: flex;
+    justify-content:space-around;
+    margin : 0px;
+    padding: 0px;
+    flex-wrap: wrap;
+}
+
+#conteneurcv {
+    background-image:url("../images/skyline2.jpg") ;
+    background-repeat: no-repeat;
+
+}

@@ -1,0 +1,63 @@
+lenjalbert.e2c@gmail.com
+Né le 22/03/2003
+Français
+Métropole Lilloise
+Langues
+Français
+Anglais
+Informatique
+NetBeans
+Apache
+MySql
+Cisco
+Exel
+Atouts
+Esprit d'equipe
+Reste toujours en veille
+Centres d'intérêt
+Musculation
+Ski
+Lilian ENJALBERT
+En recherche de stage dans le Développement web
+Après un bac STI2D et 6 mois de BTS SIO, je me forme à l'E2C parcours numérique pour apprendre de nouvelles compétences afin de définir de mon projet professionnel.
+Diplômes et Formations
+Baccalauréat STI2D (sciences et technologies de l'industrie et du développement durable) option SIN
+Lycée ColbertTourcoing
+De septembre 2019 à juin 2021
+Fondamentales du réseau : switch, hub, routeur, table mac, numérisation (binaire hexadécimale)
+
+Bases solides en science
+
+Brevet de technicien supérieur - Services informatiques aux organisations
+Lycée Saint rémiRoubaix
+De septembre 2021 à avril 2022
+-Développement web (CSS, HTML)
+-Réseau (routeurs, arp, mac, calcul)
+-BATCH, BASH
+-JAVA
+-PYTHON
+
+Expériences professionnelles
+Police scientifique et technique
+StagiaireLille
+Mai 2018
+-Visite en balistique, stupéfiant, crimes et délinquances.
+-Découverte du milieu professionnel.
+
+BTP CFA
+Immersion PlaquisteRoubaix
+Avril 2022
+fabrication d'enduit, pose calicots, aplanissement
+
+Compétences
+SQL
+Recherche de données en lien avec différentes tables
+
+BATCH
+Automatisation CSV, placer des données
+
+JAVA + PYTHON
+Fonctionnement logique de la programmation
+
+Réseau
+Fonctionnement TABLE MAC, ARP, ROUTAGE, NAT.

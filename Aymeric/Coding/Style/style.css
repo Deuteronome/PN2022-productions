@@ -1,0 +1,107 @@
+@font-face {
+  font-family: "DylanGothic";
+  src: url("./nixie_one/NixieOne.ttf");
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  background-image: url(../image/Zoro.jpg);
+  background-repeat: no-repeat;
+  background-size: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: "DylanGothic";
+  font-size: 1cm;
+  line-height: 80%;
+  width: 11000px;
+  height: 5cm;
+}
+
+h1 {
+  color: rgb(93, 109, 126);
+  
+}
+h2 {
+  color: rgb(174, 214, 241);
+}
+
+h3 {
+  color: rgb(229, 152, 102);
+}
+h4 {
+  color: rgb(94, 130, 163);
+}
+h5 {
+  color: slategrey;
+}
+h6 {
+  color: rgb(127, 127, 175);
+}
+#Profil {
+  color: rgb(139, 132, 22);
+}
+#Listes {
+  background-color: white;
+  border: solid goldenrod;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+#Listes:hover {
+  box-shadow: grey 15px 15px 15px 10px;
+}
+nav {
+  display: inline-block;
+  width: 20%;
+  background-color: rgb(93, 109, 126);
+  margin: 0px;
+  border-color: rgb(93, 109, 126);
+  padding: 15px;
+  vertical-align: top;
+}
+#principale {
+  display: inline-block;
+  margin: 0px;
+  width: 75%;
+  padding: 20px;
+  vertical-align: top;
+}
+header {
+  background-color: rgb(93, 109, 126);
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#Acceuill {
+  color: rgb(139, 132, 22);
+  font-size: x-large;
+  font-family: 'Courier New', Courier, monospace;
+}
+.bouton {
+  width: 75%;
+  margin: auto;
+  background-color: rgb(93, 109, 126);
+  padding: 10px;
+  text-align: center;
+  border: solid;
+}
+.bouton :hover {
+  background-color: rgb(93, 109, 126);
+  color: black;
+}
+.capsule {
+  width: 5px;
+  height: 5px;
+  margin: 5px;
+  padding: 5px;
+  background-image: url(./image/Zoro.jpg);
+  background: no-repeat;
+  border: 5px;
+  border: radius 5px;
+}
+.contain{
+  display: flex;
+  justify-content: ;
+
+}

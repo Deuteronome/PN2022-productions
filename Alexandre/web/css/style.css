@@ -1,0 +1,110 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("../image/6e880bb9a1aa39af9902826e2f156e29.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+h1  {
+    color: rgb(78, 65, 253);
+    
+}
+
+h2 {
+    color: rgb(110, 116, 255);
+
+}
+
+p {
+    color: white;
+
+}
+
+h3 {
+    color: white;
+
+}
+
+h4 {
+    color: white;
+
+}
+
+ul {
+    color: white;
+
+}
+
+nav {
+    display: inline-block;
+    vertical-align: top;
+    width : 17%;
+    
+
+}
+
+#principale {
+    display: inline-block;
+    vertical-align: top;
+    width : 30%;
+
+}
+
+header {
+    background-color: rgba(0, 0, 0,0.6);
+    text-align: center;
+    color: rgb(255, 179, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    font-size: 60px;
+
+}
+
+
+a {
+    text-decoration:none ;
+    color :orange;
+
+}
+
+.bouton {
+    width: 35%;
+    margin: auto;
+    background-color: rgba(0, 0, 0,0.6);
+    padding: 10px;
+    text-align: center;
+    border: orange;
+    /*margin-bottom: 5px;
+    border-radius: 10px;*/
+
+}
+
+.bouton:hover {
+    background-color: rgba(0, 0, 0,0.6);
+    color: rgba(255, 166, 0, 0.806);
+
+}
+
+.capsule {
+    width: 150px;
+    height: 220px;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../image/gokuUltraInstinct.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+
+}
+
+#conteneur {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+}

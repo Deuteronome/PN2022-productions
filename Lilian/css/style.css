@@ -1,0 +1,119 @@
+
+@font-face {
+    font-family: Frag;
+    src: url(Fragmentcore.otf);
+}
+
+h1{
+    text-align: center;
+    color:orange;
+    font-weight: 1000;
+    
+}
+
+
+
+#date{
+    text-decoration:double;
+    font-weight: 900;
+}
+
+
+#diplome{
+    font-weight:lighter;
+    font-size: large;
+}
+
+h2 {
+    border: 1px solid rgb(249, 249, 249);
+    font-weight: bold;
+    text-align: center;
+    color: orange;
+  }
+
+h3 {
+
+    color:orange;
+    font-style: oblique
+}
+
+
+.personnepos {
+
+    display: flex;
+    justify-content:space-between;
+
+
+}
+
+
+.e2cpos{
+
+    display: flex;
+    justify-content:space-between;
+
+}
+
+
+.premiereligne{
+    display: flex;
+    justify-content: left;
+}
+
+#outils{
+
+     display: flex;
+     margin : 40px;
+     padding-right: 40px;
+}
+
+#conteneur{
+height: 250px;
+width: 300px;
+background-color: rgb(63, 79, 74);
+
+}
+
+.bouton{
+    background-color: rgb(92, 83, 83);
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    font-weight: 500;
+    margin-bottom: 17px;
+
+
+}
+
+nav{
+
+    display: inline-block;
+}
+
+#principale{
+
+    display: inline-block;
+}
+
+
+header{
+    background-color: rgb(0, 0, 0);
+   
+}
+ 
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(220, 213, 213);
+    font-family: "Frag";
+}
+
+#mail {
+    margin-right: 1300px;
+}
+
+#mail:hover{
+box-shadow: orange 10px -10px 10px 10px;
+padding-right: 30%;
+}

@@ -1,0 +1,37 @@
+h2 {
+    color:blue;
+    font-size: 20px;
+    font-family:century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    padding: auto;
+}
+body {
+    background-color: teal;
+    font-family: typooni;
+    padding: 15px;
+    padding-top: 5px;
+    border-radius: 30px;
+    margin: 15px;
+    border: solid;
+    border-color: snow;
+}
+p {
+    font-size: 14px;
+}
+h1 {
+    color: snow;
+}
+#comp {
+    background-color:  snow;
+}
+@font-face {
+    font-family: typooni;
+    src: url(KGRedHands.ttf);
+}
+@font-face {
+    font-family: typoorix;
+    src: url(KGRedHandsOutline.ttf);
+}
+h4 {
+    color: gold;
+
+}

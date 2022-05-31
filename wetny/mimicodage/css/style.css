@@ -1,0 +1,47 @@
+h2 {       
+ color:rgb(233, 19, 187);
+
+}
+h1 {
+    color:rgb(155, 10, 168);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{ 
+    background-color: rgb(240, 245, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+}   
+h2{
+color:rgb(243, 12, 185)
+
+}
+@font-face {
+font-family:"super" ;
+font-size: x-large;
+src:url(SummerLoving.otf)
+
+}
+nav {
+    
+    vertical-align: top;
+    background-color: rgb(139, 37, 37);
+
+}
+#principal {
+   display:initial
+}
+header {
+    background-color: rgb(139, 37, 37);
+    text-align: center;
+    color:rgb(3, 2, 2);
+    font-size: 40px;
+    
+}
+
+.mimibouton {
+color: black;
+font-size: x-large;
+}
+

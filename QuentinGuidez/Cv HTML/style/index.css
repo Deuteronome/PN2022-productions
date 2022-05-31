@@ -1,0 +1,102 @@
+@font-face
+{
+    font-family: "Bam";
+    src:url(../style/Font/Ubuntu-Title.ttf)
+}
+@font-face {
+    font-family: "Title";
+    src: url(../style/Font/Rush\ of\ the\ Geisha.ttf);
+}
+body
+ {
+     font-family:"Bam";
+     color: white;
+     background-color:#abb6cf;
+     margin: 0;
+ }
+ header
+ {
+     display: flex;
+     justify-content: space-around;
+ }
+ header h1 
+ {
+     font-size:70px;
+ }
+ h1:hover
+ {
+    color:white;
+    font-family: "Title";
+ }
+
+.dec1
+ {
+     width: 20%;
+     border: 1px solid white;
+     background:linear-gradient(#cacfce,#e1e3e2);
+ }
+.dec2
+ {
+     width: 20%;
+     border: 1px solid white;
+     background:linear-gradient(#cacfce,#e1e3e2);
+ }
+.boum
+{
+    display: flex;
+    justify-content:flex-start;
+    padding-left: 10px;
+}
+.dec1:hover, .dec2:hover
+{
+    background: linear-gradient(#9fa8bf,#768bc2);
+}
+#mid
+{
+    font-size: xx-large;
+    width: 70%;
+    padding-top: 80px;
+    border: 1px solid white;
+    text-align: center;
+}
+.left
+{
+    width: 30%;
+    border: 1px solid white;
+    background:linear-gradient(#cacfce,#e1e3e2);
+    height: 20em;
+}
+.left:hover
+{
+    background: linear-gradient(#9fa8bf,#768bc2);
+}
+article a 
+{
+    color:white;
+}
+.left p
+{
+    padding-top: 20px;
+}
+.left h2
+{
+    text-align: center;
+}
+.left p 
+{
+    text-align: right;
+    padding-right: 15px;
+    font-size: 25px;
+}
+.bouton
+{
+    margin: auto;
+    padding: 12px;
+    border: 1px solid white;
+    width: 50%;
+    background:linear-gradient(#cacfce,#e1e3e2);
+}
+.bouton:hover
+{
+    background: linear-gradient(#9fa8bf,#768bc2);
+}
