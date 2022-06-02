@@ -47,6 +47,7 @@ article, nav
 .test
 {
     display: flex;
+    align-items:stretch;
     margin: 10px;
     padding: 2px;
     justify-content: space-between;

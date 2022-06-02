@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "BOTW";
+    src:url("BOTW.otf");
+}
+body {
+    background-image: url(fond-de-douleur-simple-et-imposant-fond-d-ecran-1400x1050_21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "";
+
+    background-color: goldenrod;
+    font-family: "BOTW";
+}
+h2{
+    color:royalblue;
+    font-size: 20px;
+    font-family:;
+    font-weight: 200;
+}
