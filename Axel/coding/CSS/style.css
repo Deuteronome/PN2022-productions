@@ -1,0 +1,141 @@
+@font-face {
+    font-family: "GoW";
+    src:url("GODOFWAR.TTF");
+}
+body {
+    background-color:black;
+}
+#nomprenom {
+    color:rgb(255, 153, 0);
+    font:lighter;
+    font-family: GoW;
+    font-size: 40px;
+    margin-left: 400px;
+}
+h2 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    margin-left: 450px;
+    
+}
+h3 {
+    color: orange;
+}
+#profil {
+    width: 10%;
+    float: left;
+    margin-left: 50px;
+}
+#real {
+    align-content:center ;
+}
+#banner {
+    width: 30%;
+    height: 200px;
+    float: center;
+}
+#video {
+    float: center;
+    width: 30%;
+    height: 200px;
+}
+#mail {
+    width: 10%
+}
+p {
+    color: white;
+}
+ul {
+    color: white;
+}
+#exp {
+    margin-left: 50px;
+    width: auto;
+}
+#ligne1 {
+    display: inline-block;
+}
+#menu {
+    display:inline-flex;
+    margin: 0px;
+    padding: 0px;
+}
+#principal {
+    display:inline;
+}
+#moncv {
+    color: darkgoldenrod;
+}
+#p1 {
+    background-color: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: black;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+#pa {
+    color:rgb(255, 153, 0);
+    font:lighter;
+    font-family: GoW;
+}
+.bouton {
+    width: 75%;
+    margin: auto;
+    background-color: chocolate;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 15%;
+}
+.bouton:hover {
+    background-color: goldenrod;
+    color: black;
+}
+#contain {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+}
+.capsule {
+    width: 150px;
+    min-width: 150px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url(../image/card.jpg);
+    border-radius: 15px;
+    text-align: center;
+    margin: 10px;
+    font-size: 0px;
+    
+}
+.capsule:hover {
+    background-image: url(../image/cardw.jpg);
+    text-shadow: 5px 5px 2px black;
+    color: white;
+    width: 160px;
+    min-width: 160px;
+    height: 185px;
+    font-size: 30px;
+    padding-top: 115px;
+    filter: drop-shadow(10px 20px 3px black);
+    text-decoration: none;
+}
+#choice {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
